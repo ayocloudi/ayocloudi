@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.gifer.com/7IjS.mp4" alt="Coding GIF" width="300"/>
+  <img src="https://i.gifer.com/origin/b9/b93c76b7a97212c68210dcf8301b12c6_w200.webp" width="300"/>
 </div>
 
 <h1 align="center"> Hi there! 👋</h1>
