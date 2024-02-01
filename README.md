@@ -17,6 +17,9 @@
   <a href="https://leetcode.com/byayo/" target="_blank">
     <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="30" height="30"/>
   </a>
+  <a href="https://www.codecademy.com/profiles/ayomideOgun-Ajala7133904681" target="_blank">
+    <img src="https://yt3.googleusercontent.com/Vzv2OJNdnqMMuBwBp4RMI-4Mp5V3ouabPv0yO69EuxHxtazM12v7DFEOOna9ZEbcS3go-0hb=s900-c-k-c0x00ffffff-no-rj" alt="Codecademy" width="30" height="30"/>
+  </a>
 </p>
 
 <h3 align="left">About Me</h3>
