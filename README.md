@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://i.gifer.com/origin/b9/b93c76b7a97212c68210dcf8301b12c6_w200.webp" width="300"/>
+  <img src="https://i.gifer.com/origin/b9/b93c76b7a97212c68210dcf8301b12c6_w200.webp" width="500"/>
 </div>
 
 <h1 align="center"> Hi there! I'm Ayomide 👋</h1>
-<h3 align="center">A passionate Student studying Computer Science and Software Engineering at Maynooth University</h3>
+<h3 align="center">A passionate student studying Computer Science and Software Engineering at Maynooth University</h3>
 
 - 🌱 I’m currently learning **React JS**
 
