@@ -9,12 +9,12 @@
 
 - 📫 How to reach me: [ayomide5462@gmail.com](mailto:ayomide5462@gmail.com)
 
-<h3 align="left">Connect with me!:</h3>
+<h3 align="left">Connect with me!</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ayomide-ogun-ajala/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
-  <a href="https://leetcode.com/byayo/ target="_blank">
+  <a href="https://leetcode.com/byayo/" target="_blank">
     <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="30" height="30"/>
   </a>
 </p>
