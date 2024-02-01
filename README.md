@@ -1,5 +1,5 @@
 <div align="center">
-  <img src= "https://i.gifer.com/7IjS.gif" width="500"/>
+  <img src="https://i.gifer.com/7IjS.mp4" alt="Coding GIF" width="300"/>
 </div>
 
 <h1 align="center"> Hi there! 👋</h1>
