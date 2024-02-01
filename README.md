@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="C:\Users\21309903\Downloads\output-onlinegiftools.gif" width="500"/>
+  <img src="file:///C:/Users/21309903/Downloads/output-onlinegiftools.gif" width="500"/>
 </div>
 
 <h1 align="center"> Hi there! I'm Ayomide 👋</h1>
