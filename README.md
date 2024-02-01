@@ -9,13 +9,10 @@
 
 - 📫 How to reach me: [ayomide5462@gmail.com](mailto:ayomide5462@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/ayomide-ogun-ajala/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
-  </a>
-  <a href="https://twitter.com/your-twitter-profile" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30"/>
   </a>
 </p>
 
