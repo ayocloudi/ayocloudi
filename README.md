@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="file:///C:/Users/21309903/Downloads/output-onlinegiftools.gif" width="500"/>
+  <img src="https://i.gifer.com/3AyY.gif" alt="Coding GIF" width="300"/>
 </div>
 
 <h1 align="center"> Hi there! I'm Ayomide 👋</h1>
