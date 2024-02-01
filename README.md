@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<h3 align="left">About Me:</h3>
+<h3 align="left">About Me</h3>
 <p align="left">I am a third-year Computer Science student at Maynooth University, pursuing a Bachelor of Science degree in Computer Science and Software Engineering. My academic path is driven by a profound passion for software engineering, which I have honed through various programming languages and technologies, such as Java, JavaScript, HTML, CSS, React, C++, Python, Node.js, and MongoDB.</p>
 
 <p align="left">In addition to formal education, I seek opportunities to enhance my practical experience through personal coding projects, which showcase my initiative, creativity, and innovation in the tech realm. These projects are featured on my GitHub profile, reflecting my commitment to continuous personal and professional growth.</p>
