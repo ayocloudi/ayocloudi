@@ -1,5 +1,5 @@
 <div align="center">
-  <img src= "https://media3.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76115yjshgkw2s5zzl31ov1y10415vgya3m67kh2jimd&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="500"/>
+  <img src= "https://i.gifer.com/7IjS.gif" width="500"/>
 </div>
 
 <h1 align="center"> Hi there! 👋</h1>
