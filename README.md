@@ -5,7 +5,7 @@
 <h1 align="center"> Hi there! I'm Ayomide 👋</h1>
 <h3 align="center">A passionate student studying Computer Science and Software Engineering at Maynooth University</h3>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React JS, Docker and Python**
 
 - 📫 How to reach me: [ayomide5462@gmail.com](mailto:ayomide5462@gmail.com)
 
