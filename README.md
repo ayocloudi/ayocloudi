@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.gifer.com/origin/b9/b93c76b7a97212c68210dcf8301b12c6_w200.webp" width="500"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogramming-gifs&psig=AOvVaw3zh4McyfmL9usNYebdISWy&ust=1737223999743000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICXiu6t_YoDFQAAAAAdAAAAABAI" width="500"/>
 </div>
 
 <h1 align="center"> Hi there! I'm Ayomide 👋</h1>
