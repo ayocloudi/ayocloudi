@@ -14,9 +14,6 @@
   <a href="https://www.linkedin.com/in/ayomide-ogun-ajala/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
-  <a href="https://leetcode.com/byayo/" target="_blank">
-    <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="30" height="30"/>
-  </a>
 </p>
 
 <h3 align="left">About Me</h3>
