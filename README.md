@@ -19,13 +19,14 @@
 <h3 align="left">About Me</h3>
 <p align="left">I am a third-year Computer Science student at Maynooth University, pursuing a Bachelor of Science degree in Computer Science and Software Engineering. My academic path is driven by a profound passion for software engineering, which I have honed through various programming languages and technologies, such as Java, JavaScript, HTML, CSS, React, C++, Python, Node.js, and MongoDB.</p>
 
-<p align="left">In addition to formal education, I seek opportunities to enhance my practical experience through personal coding projects, which showcase my initiative, creativity, and innovation in the tech realm. These projects are featured on my GitHub profile, reflecting my commitment to continuous personal and professional growth.</p>
+<p align="left">Currently, I am gaining hands-on experience through my internship at Oracle, where I work on cutting-edge projects involving Gen AI. This role enhances my technical and problem-solving abilities, contributing to my growth as a developer.</p>
 
-<p align="left">My technical expertise is complemented by a robust set of interpersonal skills, shaped during my work as a Retail Cashier at The Range. There, I developed a keen understanding of customer service, leadership, and adaptability, skills that are invaluable in any professional setting.</p>
+<p align="left">In addition to formal education, I continuously seek to expand my skill set through personal coding projects, which I post on my GitHub. These projects demonstrate my initiative, creativity, and commitment to innovation in the tech space.</p>
 
-<p align="left">Outside the realms of technology and work, I nurture a passion for fitness, athletics, and music. This includes creating and sharing original musical compositions across various streaming platforms, further highlighting my creative and dynamic nature.</p>
+<p align="left">Beyond my technical expertise, I have strong interpersonal skills and a passion for fitness, athletics, and music. I create and share original music across streaming platforms, further showcasing my creativity and versatility.</p>
 
-<p align="left">Eager to integrate this blend of technical prowess, leadership skills, and innovative spirit into a dynamic team, I am actively seeking enriching internship opportunities where I can contribute meaningfully while continuing to grow.</p>
+<p align="left">I am eager to contribute my technical skills, creativity, and passion for continuous growth to a dynamic team. I am actively seeking internship opportunities that will allow me to make a meaningful impact while developing my expertise further.</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
